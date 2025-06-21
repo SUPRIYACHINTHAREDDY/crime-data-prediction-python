@@ -1,0 +1,9 @@
+Area,Crime_Type,Time,Severity
+Hyderabad,Theft,Night,High
+Bangalore,Murder,Night,Severe
+Mumbai,Robbery,Evening,High
+Delhi,Theft,Day,Medium
+Chennai,Murder,Day,Severe
+Kolkata,Theft,Night,Low
+Pune,Robbery,Evening,Medium
+Lucknow,Murder,Night,Severe
